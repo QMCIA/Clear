@@ -15,10 +15,10 @@ Clear系列专注于系统开发
 
 #### 更新版本
 
-1.0 UI模仿MacOS
-1.1 开发了极致的安全系统
-1.2 增加TRC主理的ClearOS同款的整合软件
-1.3 二改ClearMSF改名为VulcanMSF
+ 1.0 UI模仿MacOS
+ 1.1 开发了极致的安全系统
+ 1.2 增加TRC主理的ClearOS同款的整合软件
+ 1.3 二改ClearMSF改名为VulcanMSF
 
 
 #### 独家赞助商
